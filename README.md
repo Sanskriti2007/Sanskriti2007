@@ -2,7 +2,7 @@
 -  I’m interested in coding 
 -  I’m currently learning c++ with dsa
 - I’m looking to focus on my dsa practises
-   How to reach me ... my gmail account  -- tiwarisanskriti80@gmail.com
+- How to reach me ... my gmail account  -- tiwarisanskriti80@gmail.com
   
 
 

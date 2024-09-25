@@ -1,4 +1,5 @@
 -  Hi, I’m @Sanskriti
+-  I am a common first year girl    with high dreams 
 -  I’m interested in coding 
 -  I’m currently learning c++ with dsa
 - I’m looking to focus on my dsa practises
